@@ -1,0 +1,31 @@
+_repo: Beyond-the-MarneQuincy-Huiry-Voisins-before-and-during-the-battle_44599
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Babbitt, Katharine
+    gutenberg_agent_id: '42830'
+    url: http://www.gutenberg.org/2009/agents/42830
+covers:
+- cover_type: archival
+  image_path: 44599-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cuvru-Magot, Henriette
+    gutenberg_agent_id: '42829'
+    url: http://www.gutenberg.org/2009/agents/42829
+description: ''
+gutenberg_issued: '2014-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44599'
+  lccn: '18014067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marne, 1st Battle of the, France, 1914'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+title: 'Beyond the Marne: Quincy, Huiry, Voisins before and during the battle'
+url: http://www.gutenberg.org/ebooks/44599
